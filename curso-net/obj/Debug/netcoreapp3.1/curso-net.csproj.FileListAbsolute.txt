@@ -1,0 +1,26 @@
+C:\Users\Usuario\Desktop\curso-net\bin\Debug\netcoreapp3.1\curso-net.exe
+C:\Users\Usuario\Desktop\curso-net\bin\Debug\netcoreapp3.1\curso-net.deps.json
+C:\Users\Usuario\Desktop\curso-net\bin\Debug\netcoreapp3.1\curso-net.runtimeconfig.json
+C:\Users\Usuario\Desktop\curso-net\bin\Debug\netcoreapp3.1\curso-net.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\curso-net\bin\Debug\netcoreapp3.1\curso-net.dll
+C:\Users\Usuario\Desktop\curso-net\bin\Debug\netcoreapp3.1\curso-net.pdb
+C:\Users\Usuario\Desktop\curso-net\obj\Debug\netcoreapp3.1\curso-net.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\curso-net\obj\Debug\netcoreapp3.1\curso-net.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\curso-net\obj\Debug\netcoreapp3.1\curso-net.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\curso-net\obj\Debug\netcoreapp3.1\curso-net.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\curso-net\obj\Debug\netcoreapp3.1\curso-net.dll
+C:\Users\Usuario\Desktop\curso-net\obj\Debug\netcoreapp3.1\curso-net.pdb
+C:\Users\Usuario\Desktop\curso-net\obj\Debug\netcoreapp3.1\curso-net.genruntimeconfig.cache
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\bin\Debug\netcoreapp3.1\curso-net.exe
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\bin\Debug\netcoreapp3.1\curso-net.deps.json
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\bin\Debug\netcoreapp3.1\curso-net.runtimeconfig.json
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\bin\Debug\netcoreapp3.1\curso-net.runtimeconfig.dev.json
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\bin\Debug\netcoreapp3.1\curso-net.dll
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\bin\Debug\netcoreapp3.1\curso-net.pdb
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\obj\Debug\netcoreapp3.1\curso-net.csprojAssemblyReference.cache
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\obj\Debug\netcoreapp3.1\curso-net.AssemblyInfoInputs.cache
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\obj\Debug\netcoreapp3.1\curso-net.AssemblyInfo.cs
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\obj\Debug\netcoreapp3.1\curso-net.csproj.CoreCompileInputs.cache
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\obj\Debug\netcoreapp3.1\curso-net.dll
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\obj\Debug\netcoreapp3.1\curso-net.pdb
+E:\UNIVERSIDAD\5 SEMESTRE\ESTRUCTURA DE DATOS\PROYECTOS\curso-net\obj\Debug\netcoreapp3.1\curso-net.genruntimeconfig.cache

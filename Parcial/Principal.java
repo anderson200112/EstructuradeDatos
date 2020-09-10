@@ -21,7 +21,7 @@ public class Principal {
                 System.out.println("                             MENÚ");
                 System.out.println("**************************************************************************");
                 System.out.println("1. Mostrar la cola de trabajadores");
-                System.out.println("2. Mostrar el trabajador con mas ventas  y el de menor vemtas");
+                System.out.println("2. Mostrar el trabajador con mas ventas  y el de menor ventas");
                 System.out.println("3. Ver cuanto gana un trabajador segun horas laboradas (1000 por hora)");
                 System.out.println("4. Editar horas laboradas de un trabajador");
                 System.out.println("5. Agregar nuevo trabajador");
